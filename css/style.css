@@ -1,0 +1,72 @@
+hr {
+    
+    border-style: dotted none none;
+    height: 0;
+    width: 3%;
+    border-color: grey;
+    border-width: 5px;
+}
+.cont{
+    height: 100vh;
+}
+a{
+    text-decoration: none;
+    font-size:2em;
+}
+a:hover{
+    background-color: rgb(233, 233, 131);
+}
+
+body {
+    background-image:url("../bubbles.png"),linear-gradient(to right,whitesmoke,rgb(127, 190, 245));
+    background-image: linear-gradient();
+    
+    background-repeat: repeat-y,no-repeat;
+    background-position: right center;
+    background-size: 10%, auto;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    color: #3A8891;
+}
+
+.me {
+    color: aliceblue;
+}
+.mi{
+    border: 5px double;
+    border-radius: 50%;
+}
+.des a{
+    color:whitesmoke;
+    text-decoration: none;
+     
+ }
+.des{
+    
+    display: flex;
+   justify-content: center;
+  
+    background-image:url(../pexels-steve-johnson-1509534.jpg);
+    background-size: cover;
+    color: aliceblue;
+    font-weight: 900;
+    text-shadow: 2px 2px 5px black;
+    border-bottom: 3px solid black;
+    
+
+    
+}
+.yo{
+    
+   border-radius: 7%;
+   background-color: hsla(0, 12%, 29%, 0.561);
+    
+    
+   
+}
+
+
